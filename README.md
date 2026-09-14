@@ -1,2 +1,2 @@
-# llmstuday
+# llmstudy
 LLM学习
